@@ -1,7 +1,7 @@
-### UI & UX LAB EXPERIMENT - 2 
-### Design a Basic Mobile and Web Layout for an Existing Case Study:
-# Name : Rajamanikandan R
-# Reg no : 212223220082
+# UI & UX LAB EXPERIMENT - 2 
+# Design a Basic Mobile and Web Layout for an Existing Case Study:
+#### Name : Rajamanikandan R
+#### Reg no : 212223220082
 
 ## Aim :
    To Design a Basic Mobile and Web Layout for an Existing Case Study.<br>
